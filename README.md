@@ -1,24 +1,29 @@
-##Programs in JavaScript:
 
-##Remove Duplicates from Sorted Array:
+# Details
+*** Name :** ALvin Gikunju
+*** Reg_no:** SCT211-0011/2023
+
+# Programs in JavaScript:
+
+## Remove Duplicates from Sorted Array:
 This program removes duplicates from a sorted array in-place and returns the new length of the array.
 
-##Rotate Array:
+## Rotate Array:
 This program rotates an array to the right by a specified number of steps.
 
-##Contains Duplicates:
+## Contains Duplicates:
 This program checks if an array contains any duplicates and returns true if any value appears at least twice in the array, otherwise false.
 
-##Single Number:
+## Single Number:
 This program finds the single number in an array where every other element appears twice.
 
-##Summation:
+## Summation:
 This program calculates the sum of all elements in an array.
 
-##Maximum:
+## Maximum:
 This program finds the maximum element in an array.
 
-##Management System in C++:
+# Management System in C++:
 The management system allows users to:
 Add new students with details such as registration number, name, age, course code, course name, and mark.
 Edit existing student details.
